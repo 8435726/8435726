@@ -1,8 +1,7 @@
 - 👋 Hi, I’m İlayda Aytaş
-- 👀 I’m interested in development.
+- 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning computer engineering.
-- 💞️ I’m looking to collaborate on our information.
-- 📫 You can reach me on github.
+ 
 
 <!---
 ilayda-aytas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
